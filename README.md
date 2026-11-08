@@ -1,99 +1,74 @@
-..
-<div align="center">
+<p align="center">
+  <img src="./assets/engineering-banner.svg" width="100%" alt="Munyijwok James Alala — Full-Stack Software Engineer. Java, Spring Boot, React and MariaDB." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5C9BD6&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Munyijwok+James+Alala;Full-Stack+Software+Engineer;Java+Spring+Boot+%7C+React.js+%7C+MariaDB;Building+quality+software+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <strong>Full-Stack Software Engineer · Java / Spring Boot · React</strong><br />
+  <sub>Building useful software with clean code and connected systems.</sub>
+</p>
 
-<br/>
+<p align="center">
+  <a href="mailto:munjijames02@gmail.com">Email</a> ·
+  <a href="https://github.com/munji74?tab=repositories">Projects</a> ·
+  <a href="https://github.com/munji74?tab=followers">GitHub community</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munjijames02@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/munji74?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/munji74)
+## Software that solves real problems
 
-</div>
+I'm **Munyijwok James Alala**, a full-stack software engineer working with **Java, Spring Boot, React and relational databases**. I enjoy connecting backend logic with usable interfaces and turning ideas into working applications.
 
----
+I care about code that is easy to understand, APIs that are clear to work with and software that the next developer can maintain.
 
-## 🧑‍💻 About Me
+> **From the database to the interface.** My focus is on making the pieces work well together.
 
-```java
-public class MunjiJamesAlala extends SoftwareEngineer {
+## Java / Spring Boot is home ground
 
-    final String name     = "Munyijwok James Alala";
-    final String location = "A little bit of everywhere 🇺🇬";
-    final String bio      = "🚀 Passionate about writing clean, scalable code that solves real problems.";
+My backend stack centers on Spring Boot, Spring Security and Hibernate, with MariaDB and MySQL for relational data.
 
-    String[] stack()       { return new String[]{ "Java · Spring Boot · Spring Security", "React.js · Tailwind CSS · Vite", "MariaDB · MySQL · REST APIs · Railway" }; }
-    String[] collaborate() { return new String[]{ "🤝 Spring Boot APIs", "⚛️ React.js apps", "🗄️ Full-stack platforms" }; }
-    String   contact()     { return "📧 munjijames02@gmail.com"; }
-}
-```
+- **Backend development:** Java, Spring Boot and REST APIs for application services and business logic.
+- **Application security:** Spring Security for authentication and authorization.
+- **Data access:** Hibernate, MariaDB and MySQL for persistence and relational models.
+- **Full-stack integration:** Connecting backend services to React applications.
 
----
+## Full-stack toolkit
 
-## 🛠️ Tech Stack
+| Discipline | Tools and technologies |
+| :-- | :-- |
+| **Backend** | Java, Spring Boot, Spring Security, Hibernate and REST APIs |
+| **Frontend** | React, JavaScript, Tailwind CSS, Vite, HTML and CSS |
+| **Databases** | MariaDB and MySQL |
+| **Deployment and version control** | Railway, Git and GitHub |
 
-<div align="center">
+## Where I focus
 
-**Backend**
+**Backend APIs.** Building Spring Boot services with clear application logic and security in mind.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+**React interfaces.** Creating web experiences with React, Tailwind CSS and Vite, connected to backend APIs.
 
-**Frontend**
+**Full-stack platforms.** Bringing interfaces, application services and relational data together into a coherent product.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[Explore my repositories →](https://github.com/munji74?tab=repositories)
 
-**Database & DevOps**
+## GitHub stats
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+A snapshot of my contributions and coding consistency.
 
-</div>
+<p align="center">
+  <a href="https://github.com/munji74?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=munji74&amp;theme=github-dark-blue&amp;background=0C1420&amp;border=345062&amp;stroke=345062&amp;ring=78E4C1&amp;fire=78E4C1&amp;currStreakNum=F5F8FB&amp;sideNums=F5F8FB&amp;currStreakLabel=78E4C1&amp;sideLabels=C9D5E0&amp;dates=94A6BA&amp;card_width=800" width="720" alt="GitHub contribution stats for munji74, including current and longest streaks." />
+  </a>
+</p>
 
----
+## How I like to build
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=munji74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munji74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=munji74&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+- **Keep the code clear.** Prefer readable solutions and maintainable boundaries.
+- **Connect the whole system.** Think through how the interface, API and database work together.
+- **Build with care.** Give security, usability and data handling attention throughout development.
 
 ---
 
-## 📈 Contribution Graph
+### Let's build something useful
 
-<div align="center">
+I'm interested in collaborating on **Spring Boot APIs, React applications and full-stack platforms**. If you're working on something in that space, let's connect.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=munji74&theme=tokyo-night&hide_border=true&area=true)](https://github.com/munji74)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=munji74&color=5C9BD6&style=for-the-badge&label=PROFILE+VIEWS)
-
-*"Clean code always looks like it was written by someone who cares."*
-
-</div>
+**[Email me](mailto:munjijames02@gmail.com)** · **[Explore my work](https://github.com/munji74?tab=repositories)**

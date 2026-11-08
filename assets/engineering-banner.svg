@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Munyijwok James Alala — Full-Stack Software Engineer</title>
+  <desc id="desc">A dark engineering banner with mint accents connecting a React interface, Spring Boot APIs and a relational database.</desc>
+  <rect width="1280" height="360" rx="18" fill="#0c1420"/>
+  <path d="M50 65V295" stroke="#78e4c1" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="80" font-family="Consolas,monospace" font-size="14" font-weight="600" letter-spacing="3" fill="#78e4c1">BUILD / CONNECT / DELIVER</text>
+  <text x="76" y="150" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="800" fill="#f5f8fb">MUNYIJWOK</text>
+  <text x="76" y="213" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="800" fill="#f5f8fb">JAMES ALALA</text>
+  <text x="80" y="255" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#c9d5e0">Full-Stack Software Engineer</text>
+  <text x="80" y="302" font-family="Consolas,monospace" font-size="15" fill="#94a6ba">Java / Spring Boot / React / MariaDB</text>
+  <g opacity=".12" stroke="#a0b9c8">
+    <path d="M690 0V360 M750 0V360 M810 0V360 M870 0V360 M930 0V360 M990 0V360 M1050 0V360 M1110 0V360 M1170 0V360 M1230 0V360"/>
+    <path d="M670 45H1280 M670 105H1280 M670 165H1280 M670 225H1280 M670 285H1280 M670 345H1280"/>
+  </g>
+  <rect x="705" y="65" width="525" height="231" rx="13" fill="#111d2a" stroke="#345062" stroke-width="1.5"/>
+  <path d="M705 103H1230" stroke="#345062"/>
+  <circle cx="729" cy="85" r="5" fill="#78e4c1"/>
+  <circle cx="748" cy="85" r="5" fill="#60788d"/>
+  <circle cx="767" cy="85" r="5" fill="#60788d"/>
+  <text x="1205" y="90" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#94a6ba">FULL-STACK ENGINEERING</text>
+  <text x="730" y="138" font-family="Consolas,monospace" font-size="13" fill="#a5c4d0">interface / services / data</text>
+  <g fill="#192b3c" stroke="#3c6372">
+    <rect x="730" y="163" width="145" height="88" rx="7"/>
+    <rect x="895" y="163" width="145" height="88" rx="7"/>
+    <rect x="1060" y="163" width="145" height="88" rx="7"/>
+  </g>
+  <g font-family="Consolas,monospace" font-size="11" fill="#78e4c1">
+    <text x="744" y="185">01 / INTERFACE</text>
+    <text x="909" y="185">02 / SERVICES</text>
+    <text x="1074" y="185">03 / DATA</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#f5f8fb">
+    <text x="744" y="211">React</text>
+    <text x="909" y="211">Spring Boot</text>
+    <text x="1074" y="211">MariaDB</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a8b9ca">
+    <text x="744" y="234">Usable experiences</text>
+    <text x="909" y="234">REST APIs</text>
+    <text x="1074" y="234">Relational models</text>
+  </g>
+  <path d="M875 207H895 M1040 207H1060" stroke="#78e4c1" stroke-width="2"/>
+  <text x="730" y="278" font-family="Consolas,monospace" font-size="11" fill="#94a6ba">clean code / clear APIs / connected systems</text>
+</svg>
